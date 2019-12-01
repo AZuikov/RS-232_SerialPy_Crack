@@ -10,7 +10,7 @@
 
 Среднее время подбора для одной из скоростей, примерно 45 минут. Поэтому если есть каке-то ориентиры по настройками, лишние параетры можно отключить в коде.
 
-Ссылка на видео: https://www.youtube.com/watch?v=gtO0oKKvPfI&t=58s
+Ссылка на видео: https://youtu.be/gtO0oKKvPfI
 
 ===================================================================================================
 
@@ -25,4 +25,4 @@ Controllers that connect via USB did not work correctly.
 
 The average fitting time for one of the speeds is approximately 45 minutes. Therefore, if there are any guidelines for the settings, extra parameters can be disabled in the code.
 
-Link to video: ttps://www.youtube.com/watch?v=gtO0oKKvPfI&t=58s
+Link to video: https://youtu.be/gtO0oKKvPfI
