@@ -12,7 +12,7 @@
 
 Ссылка на видео: https://youtu.be/gtO0oKKvPfI
 
-===================================================================================================
+==============================================================================================
 
 In my practice, there were situations when it was necessary to work with devices through a serial port. But there was no information about the port settings and it was impossible to get this information ...
 So I wrote this script. Everything is very simple.
